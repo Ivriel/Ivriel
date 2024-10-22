@@ -6,7 +6,9 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 
 ### ABOUT ME
 
-*Student at SMKN 8 MALANG
+- Student at SMKN 8 MALANG
+- Software Engineering Major
+- 2 Years experience
 
 ---
 
