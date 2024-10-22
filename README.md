@@ -4,6 +4,10 @@
 
 Welcome to my GitHub profile! Here are the technologies and tools I've worked with in my projects:
 
+### ABOUT ME
+
+*Student at SMKN 8 MALANG
+
 ---
 
 ### 🚀 Technologies and Tools:
