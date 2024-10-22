@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivriel&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
