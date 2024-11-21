@@ -36,6 +36,8 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
   <img src="https://img.shields.io/badge/Flutter_Viz-02569B?style=flat-square&logo=flutter&logoColor=white" alt="FlutterViz"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/AOS-FFB800?style=flat-square&logo=aos&logoColor=white" alt="AOS"/>
+  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white" alt="Fontawesome"/>
 </p>
 
 ---
