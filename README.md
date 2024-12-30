@@ -41,6 +41,8 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
   <img src="https://img.shields.io/badge/AOS-FFB800?style=flat-square&logo=aos&logoColor=white" alt="AOS"/>
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white" alt="Fontawesome"/>
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
 ---
