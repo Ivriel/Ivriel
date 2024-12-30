@@ -43,6 +43,8 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/EmailJS-FF4F00?style=flat-square&logo=emailjs&logoColor=white" alt="Email JS"/>
 </p>
 
 ---
