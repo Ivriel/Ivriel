@@ -11,7 +11,9 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 - Student at SMKN 8 MALANG
 - Software Engineering Major
 - 2 Years experience
-- Beginner at developing website
+- Beginner at website development
+- Beginner at mobile development
+- Only code, not design
 
 ---
 
@@ -59,3 +61,5 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 ---
 
 Thanks for visiting! Feel free to explore my repositories and connect with me on GitHub.
+
+# Contact Me at Instagram. DM Only
