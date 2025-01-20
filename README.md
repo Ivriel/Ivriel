@@ -59,9 +59,8 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 </p>
 
 ---
-
+# Contact Me at Instagram. DM Only
 Thanks for visiting! Feel free to explore my repositories and connect with me on GitHub.
 
----
 
-# Contact Me at Instagram. DM Only
+
