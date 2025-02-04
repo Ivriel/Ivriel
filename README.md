@@ -59,11 +59,11 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 </p>
 
 <p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivriel&theme=dark&hide_border=false)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivriel&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=blue-green)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=blue-green" alt="Top Langs"/>
 </p>
 
 ---
