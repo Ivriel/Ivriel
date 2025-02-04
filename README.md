@@ -56,11 +56,13 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ivriel&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivriel&theme=dark&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=blue-green)
+</p>
+
 
 ---
 # Contact Me at Instagram. DM Only
