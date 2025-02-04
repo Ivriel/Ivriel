@@ -56,17 +56,16 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ivriel&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivriel&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=blue-green)
 </p>
 
+<p align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivriel&theme=dark&hide_border=false)
+</p>
+
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=blue-green)
+</p>
 
 ---
 # Contact Me at Instagram. DM Only
 Thanks for visiting! Feel free to explore my repositories and connect with me on GitHub.
-
-
-
