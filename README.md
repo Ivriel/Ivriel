@@ -14,6 +14,14 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 - Beginner at website development
 - Beginner at mobile development
 - Only code, not design
+Currently, i'm studying mobile development with flutter
+
+---
+
+### Identity
+Full Name: Ivriel Dei Gratia Gunawan\
+Class/Absent: XI RPL A / 14\
+Im in Industrial Class with Rakryan VET. 
 
 ---
 
