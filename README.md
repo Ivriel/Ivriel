@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 - Beginner at website development
 - Beginner at mobile development
 - Only code, not design
-Currently, i'm studying mobile development with flutter
+- Currently, i'm studying mobile development with flutter
 
 ---
 
