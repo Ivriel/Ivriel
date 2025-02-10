@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 
 ---
 
-<img align="center" width="100%" height="200px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY5M2g2enN2MnNmYjZ4aGFzY3NudnozaGV3MXVyZHBmMDIxdTk5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jNYUeDwoUoloEswJm8/giphy.gif">
+<img align="center" width="100%" height="200px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY5M2g2enN2MnNmYjZ4aGFzY3NudnozaGV3MXVyZHBmMDIxdTk5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jNYUeDwoUoloEswJm8/giphy.gif"/>
 
 ---
 
