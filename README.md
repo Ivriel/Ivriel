@@ -6,7 +6,6 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 
 ---
 
-
 ### ABOUT ME
 
 - Student at Public Vocational High School 8 Malang
@@ -15,18 +14,18 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 - Beginner at website development
 - Beginner at mobile development
 - Only code, not design
-- Currently, i'm studying mobile development with flutter
+- Currently, I'm studying mobile development with Flutter
 
 ---
 
 ### Identity
 Full Name: Ivriel Dei Gratia Gunawan\
 Class/Absent: XI RPL A / 14\
-Im in Industrial Class with Rakryan VET. 
+I'm in Industrial Class with Rakryan VET. 
 
 ---
 
-### 🚀 Technologies and Tools I have Been Worked With:
+### 🚀 Technologies and Tools I have Worked With:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -76,5 +75,13 @@ Im in Industrial Class with Rakryan VET.
 </p>
 
 ---
-# Contact Me at Instagram. DM Only
+
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+# Contact Me on Instagram. DM Only
 Thanks for visiting! Feel free to explore my repositories and connect with me on GitHub.
