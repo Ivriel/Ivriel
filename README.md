@@ -4,6 +4,11 @@
 
 Welcome to my GitHub profile! Here are the technologies and tools I've worked with in my projects:
 
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### ABOUT ME
@@ -76,12 +81,6 @@ I'm in Industrial Class with Rakryan VET.
 
 ---
 
-### 📈 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
 
 # Contact Me on Instagram. DM Only
 Thanks for visiting! Feel free to explore my repositories and connect with me on GitHub.
