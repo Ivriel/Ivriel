@@ -2,7 +2,7 @@
 
 ### I'm Ivriel Gunawan
 
-Welcome to my GitHub profile! Here are the technologies and tools I've worked with in my projects:
+Welcome to my GitHub profile! Here's a bit more about me and the technologies I work with:
 
 ### 📈 Visitor Count
 <p>
@@ -13,24 +13,24 @@ Welcome to my GitHub profile! Here are the technologies and tools I've worked wi
 
 ### ABOUT ME
 
-- Student at Public Vocational High School 8 Malang
-- Software Engineering Major
-- 2 Years experience
-- Beginner at website development
-- Beginner at mobile development
-- Only code, not design
-- Currently, I'm studying mobile development with Flutter
+- 👨‍🎓 **Student** at Public Vocational High School 8 Malang
+- 🎓 **Software Engineering Major**
+- 💻 **2 Years of experience** in coding and software development
+- 🌱 **Currently learning mobile development** with Flutter
+- 🖥️ **Website Development**: Beginner
+- 📱 **Mobile Development**: Beginner
+- 🎨 **I code, I don't design** – focus on building functional and efficient code!
 
 ---
 
 ### Identity
-Full Name: Ivriel Dei Gratia Gunawan\
-Class/Absent: XI RPL A / 14\
-I'm in Industrial Class with Rakryan VET. 
+- **Full Name**: Ivriel Dei Gratia Gunawan
+- **Class/Absent**: XI RPL A / 14
+- **Industrial Class** with Rakryan VET.
 
 ---
 
-### 🚀 Technologies and Tools I have Worked With:
+### 🚀 Technologies and Tools I’ve Worked With:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -81,6 +81,11 @@ I'm in Industrial Class with Rakryan VET.
 
 ---
 
+### 📱 **Contact Me**
 
-# Contact Me on Instagram. DM Only
-Thanks for visiting! Feel free to explore my repositories and connect with me on GitHub.
+- **Instagram DM Only**: [@Ivriel](https://www.instagram.com/Ivriel)
+  
+Thanks for visiting! Feel free to explore my repositories, and connect with me if you’d like to collaborate or chat.
+
+---
+
