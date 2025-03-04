@@ -44,7 +44,7 @@ Welcome to my GitHub profile! Here's a bit more about me and the technologies I 
 
 ### 📱 **Contact Me**
 
-- **Instagram DM Only**: [@Ivriel](https://www.instagram.com/Ivriel)
+- **Instagram DM Only**: [@Ivriel](https://www.instagram.com/wynsc_u13/)
   
 Thanks for visiting! Feel free to explore my repositories, and connect with me if you’d like to collaborate or chat.
 
