@@ -11,16 +11,53 @@ Welcome to my GitHub profile! Here's a bit more about me and the technologies I 
 
 ---
 
-### 🌐 Portfolio Website
+### ABOUT ME
+
+- 👨‍🎓 **Student** at Public Vocational High School 8 Malang
+- 🎓 **Software Engineering Major**
+- 💻 **2 Years of experience** in coding and software development
+- 🌱 **Currently learning mobile development** with Flutter
+- 🖥️ **Website Development**: Beginner
+- 📱 **Mobile Development**: Beginner
+- 🎨 **I code, I don't design** – focus on building functional and efficient code!
+
+---
+
+### Identity
+- **Full Name**: Ivriel Dei Gratia Gunawan
+- **Class/Absent**: XI RPL A / 14
+- **Industrial Class** with Rakryan VET.
+
+---
+
+### 🚀 Technologies and Tools I’ve Worked With:
+
 <p align="left">
-  <a href="https://www.ivriel.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+
+---
+
+### 💌 Contact Me
+
+<p>
+  <a href="https://www.instagram.com/wynsc_u13/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/ivriel-gunawan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCxxxxxx" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Most Used Languages
+### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ivriel&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -34,18 +71,14 @@ Welcome to my GitHub profile! Here's a bit more about me and the technologies I 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=blue-green" alt="Top Langs"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ivriel">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivriel&theme=github_dark" alt="Most Used Languages"/>
-  </a>
-</p>
-
 ---
 
-### 📱 **Contact Me**
+### 🌐 Portfolio Website
 
-- **Instagram DM Only**: [@Ivriel](https://www.instagram.com/wynsc_u13/)
-  
-Thanks for visiting! Feel free to explore my repositories, and connect with me if you’d like to collaborate or chat.
+<p>
+  <a href="https://ivriel-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
 
 ---
