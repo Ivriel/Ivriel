@@ -62,6 +62,7 @@ Welcome to my GitHub profile! Here's a bit more about me and the technologies I 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/EmailJS-FF4F00?style=flat-square&logo=emailjs&logoColor=white" alt="Email JS"/>
 </p>
+
 ---
 
 ### 💌 Contact Me
