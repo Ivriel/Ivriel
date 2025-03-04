@@ -29,6 +29,7 @@ Welcome to my GitHub profile! Here's a bit more about me and the technologies I 
 
 ### Identity
 - **Full Name**: Ivriel Dei Gratia Gunawan
+- **School**: State Vocational High School 8 Malang
 - **Class/Absent**: XI RPL A / 14
 - **Industrial Class** with Rakryan VET.
 
