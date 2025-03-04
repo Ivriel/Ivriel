@@ -68,7 +68,7 @@ Welcome to my GitHub profile! Here's a bit more about me and the technologies I 
 ### 💌 Contact Me
 
 <p>
-  <a href="https://www.instagram.com/wynsc_u13/" target="_blank">
+  <a href="https://www.instagram.com/wynsc_u13" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/ivriel-gunawan" target="_blank">
