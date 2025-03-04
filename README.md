@@ -100,7 +100,7 @@ Welcome to my GitHub profile! Here's a bit more about me and the technologies I 
 ### 🌐 Portfolio Website
 
 <p>
-  <a href="https://ivriel-portfolio.com" target="_blank">
+  <a href="https://www.ivriel.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
