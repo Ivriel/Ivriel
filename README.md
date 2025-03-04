@@ -1,16 +1,6 @@
 <h1 align="center">
   FRONTEND WEB DEVELOPER
 </h1>
-<p align="center"><b>Kota Malang</b><br><span id="time"></span></p>
-<script>
-  function updateTime() {
-    const now = new Date().toLocaleString("id-ID", { timeZone: "Asia/Jakarta", weekday: "long", day: "numeric", month: "long", year: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit" });
-    document.getElementById("time").innerText = now;
-  }
-  setInterval(updateTime, 1000);
-  updateTime();
-</script>
-
 
 ### I'm Ivriel Gunawan
 
