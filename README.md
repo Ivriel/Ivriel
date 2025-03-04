@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">
+  FRONTEND WEB DEVELOPER
+</h1>
 
 ### I'm Ivriel Gunawan
 
