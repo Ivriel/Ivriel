@@ -1,8 +1,10 @@
 <h1 align="center">
   FRONTEND WEB DEVELOPER
 </h1>
+<h4>
+   🌱 I'm currently working for Shankara Paperstraw 
+</h4>
 
-## 🌱 I'm currently working for **Shankara Paperstraw**  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ivriel/Ivriel/main/Logo%20Shankara.png" alt="Shankara Logo" width="200">
 </p>
