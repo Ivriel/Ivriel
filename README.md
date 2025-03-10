@@ -2,6 +2,10 @@
   FRONTEND WEB DEVELOPER
 </h1>
 
+## 🌱 I'm currently working for **Shankara Paperstraw**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ivriel/Ivriel/main/Logo%20Shankara.png" alt="Shankara Logo" width="200">
+</p>
 
 
 ### I'm Ivriel Gunawan
