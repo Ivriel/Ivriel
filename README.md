@@ -4,12 +4,7 @@
 <h4>
    🌱 I'm currently working for Shankara Paperstraw 
 </h4>
-<h1 align="center">
-  Their Website
-</h1>
-<a>
-  https://www.shankarapaperstraw.com/
-</a>
+<a href="https://www.shankarapaperstraw.com/">Check Their Website</a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ivriel/Ivriel/main/Logo%20Shankara.png" alt="Shankara Logo" width="200">
