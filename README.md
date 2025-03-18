@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/Ivriel/Ivriel/main/Logo%20Shankara.png" alt="Shankara Logo" width="200">
 </p>
 
-<a href="https://www.shankarapaperstraw.com/"> Check Their Website</a>
+<a href="https://www.shankarapaperstraw.com/" target="_blank"> Check Their Website</a>
 
 ### I'm Ivriel Gunawan
 
