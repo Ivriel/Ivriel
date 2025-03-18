@@ -4,11 +4,11 @@
 <h4>
    🌱 I'm currently working for Shankara Paperstraw 
 </h4>
-<a href="https://www.shankarapaperstraw.com/">Check Their Website</a>
 
-<p align="center">
+
+<a align="center" href="https://www.shankarapaperstraw.com/">
   <img src="https://raw.githubusercontent.com/Ivriel/Ivriel/main/Logo%20Shankara.png" alt="Shankara Logo" width="200">
-</p>
+</a>
 
 
 ### I'm Ivriel Gunawan
