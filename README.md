@@ -12,6 +12,10 @@
   <a href="https://www.shankarapaperstraw.com/" target="_blank"><strong>🌍 Visit Company Website</strong></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 ---
 
 ## 👋 About Me
@@ -68,14 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivriel&theme=dark" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=blue-green" alt="Top Languages"/>
-</p>
-
----
-
-## 📈 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
