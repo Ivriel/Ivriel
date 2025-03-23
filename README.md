@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently working at <strong>Shankara Paperstraw</strong>
+  🌱 Currently working with <strong>Shankara Paperstraw</strong> for maintenancing their website
 </p>
 
 <p align="center">
