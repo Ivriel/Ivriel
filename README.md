@@ -1,7 +1,7 @@
 ### <h1 align="center">💻 Ivriel Gunawan | Frontend Web Developer</h1>
-<div align="center">
+
   [![wakatime](https://wakatime.com/badge/user/1693d8b0-85ab-442b-9542-640bff610390.svg)](https://wakatime.com/@f0rgotten)
-</div>
+
 
 
 <p align="center">
