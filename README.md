@@ -1,4 +1,5 @@
 ### <h1 align="center">💻 Ivriel Gunawan | Frontend Web Developer</h1>
+[![wakatime](https://wakatime.com/badge/user/b4a6a923-b85a-49fd-8d41-2ffdbd75ad17.svg)](https://wakatime.com/@b4a6a923-b85a-49fd-8d41-2ffdbd75ad17)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ivriel/Ivriel/main/Logo%20Shankara.png" alt="Shankara Logo" width="200">
