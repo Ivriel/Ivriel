@@ -17,8 +17,10 @@
   <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+<div align="center">
+  [![wakatime](https://wakatime.com/badge/user/1693d8b0-85ab-442b-9542-640bff610390.svg)](https://wakatime.com/@1693d8b0-85ab-442b-9542-640bff610390)
+</div>
 
-[![wakatime](https://wakatime.com/badge/user/1693d8b0-85ab-442b-9542-640bff610390.svg)](https://wakatime.com/@1693d8b0-85ab-442b-9542-640bff610390)
 
 
 ---
