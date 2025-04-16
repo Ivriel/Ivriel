@@ -18,9 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@f0rgotten" target="_blank">
-    <img src="https://wakatime.com/badge/@f0rgotten.svg" alt="WakaTime Stats" />
-  </a>
+ <a href="https://wakatime.com/@1693d8b0-85ab-442b-9542-640bff610390"><img src="https://wakatime.com/badge/user/1693d8b0-85ab-442b-9542-640bff610390.svg" alt="Total time coded since Apr 12 2025" /></a>
 </p>
 
 
