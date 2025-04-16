@@ -17,9 +17,12 @@
   <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p>
-  [![wakatime](https://wakatime.com/badge/@f0rgotten.svg)](https://wakatime.com/@f0rgotten)
+<p align="center">
+  <a href="https://wakatime.com/@f0rgotten" target="_blank">
+    <img src="https://wakatime.com/badge/@f0rgotten.svg" alt="WakaTime Stats" />
+  </a>
 </p>
+
 
 ---
 
