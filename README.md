@@ -13,11 +13,14 @@
   <a href="https://www.shankarapaperstraw.com/" target="_blank"><strong>🌍 Visit Company Website</strong></a>
 </p>
 
-<p align="center">
+<div display="flex">
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/1693d8b0-85ab-442b-9542-640bff610390.svg)](https://wakatime.com/@1693d8b0-85ab-442b-9542-640bff610390)
+</div>
+
 
 
 ---
