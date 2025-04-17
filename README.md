@@ -13,13 +13,19 @@
   <a href="https://www.shankarapaperstraw.com/" target="_blank"><strong>🌍 Visit Company Website</strong></a>
 </p>
 
-  <p align="center">
+<p align="center">
+  <a href="https://wakatime.com/@1693d8b0-85ab-442b-9542-640bff610390">
+    <img src="https://wakatime.com/badge/user/1693d8b0-85ab-442b-9542-640bff610390.svg" alt="wakatime" />
+  </a>
+  <a href="https://codetime.dev">
+    <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32370%26project%3D%26in=0" alt="CodeTime Badge" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-
-  [![wakatime](https://wakatime.com/badge/user/1693d8b0-85ab-442b-9542-640bff610390.svg)](https://wakatime.com/@1693d8b0-85ab-442b-9542-640bff610390)
-  [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32370%26project%3D%26in=0)](https://codetime.dev)
 
 
 
