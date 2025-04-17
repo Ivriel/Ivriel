@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
   <a href="https://wakatime.com/@1693d8b0-85ab-442b-9542-640bff610390">
     <img src="https://wakatime.com/badge/user/1693d8b0-85ab-442b-9542-640bff610390.svg" alt="wakatime" />
   </a>
@@ -22,9 +26,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
 
 
 
