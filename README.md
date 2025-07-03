@@ -36,7 +36,7 @@
 
 ## 👋 About Me
 
-- 🎓 **Student** at Public Vocational High School 8 Malang (XI RPL A / 14)
+- 🎓 **Student** at Public Vocational High School 8 Malang (XII RPL A / 14)
 - 🏢 **Industrial Class**: Rakryan VET
 - 💻 **2+ years** of experience in coding & website development
 - 🌱 **Currently learning** Mobile Development with Flutter
