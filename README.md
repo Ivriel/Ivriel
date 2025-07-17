@@ -39,7 +39,6 @@
 - 🎓 **Student** at Public Vocational High School 8 Malang (XII RPL A / 14)
 - 🏢 **Industrial Class**: Rakryan VET
 - 💻 **2+ years** of experience in coding & website development
-- 🌱 **Currently learning** Mobile Development with Flutter
 - 🎨 Focused on **coding and logical for website**, not design it!
 
 ---
@@ -65,7 +64,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Firebase-FFCB2F?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="Xampp"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
