@@ -36,6 +36,7 @@
 
 ## 👋 About Me
 
+- ⏳ Ich bin **17 Jahre alt**
 - 🎓 **Student** at Public Vocational High School 8 Malang (XII RPL A / 14)
 - 🏢 **Industrial Class**: Rakryan VET
 - 💻 **2+ years** of experience in coding & website development
