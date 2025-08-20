@@ -41,6 +41,8 @@
 - 🏢 **Industrial Class**: Rakryan VET
 - 💻 **2+ years** of experience in coding & website development
 - 🎨 Focused on **coding and logical for website**, not design it!
+- 📱 Currently learning **Mobile Development with Flutter**
+- 👨‍💻 Intern Frontend Web Developer **With Angular** and Mobile Development (Slicing UI) **With Flutter**
 
 ---
 
