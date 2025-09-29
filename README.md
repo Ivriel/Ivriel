@@ -36,7 +36,7 @@
 
 ## 👋 About Me
 
-- ⏳ Ich bin **17 Jahre alt** und lerne ich Deutsch seit einem Jahr. Noch in A1 Niveau bis jetzt.
+- ⏳ Ich bin **17 Jahre alt** und lerne Deutsch seit einem Jahr. Noch auf dem Niveau A1.
 - 🎓 **Student** at Public Vocational High School 8 Malang (XII RPL A / 14)
 - 🏢 **Industrial Class**: Rakryan VET
 - 💻 **2+ years** of experience in coding & website development
