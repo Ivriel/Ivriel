@@ -53,8 +53,12 @@ As a developer and entrepreneur, I bridge the gap between **robust backend logic
 ### 📊 Engineering Performance
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ivriel&show_icons=true&theme=tokyonight&icon_color=2ea043&title_color=2ea043&outline_color=2ea043&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=tokyonight&icon_color=2ea043&title_color=2ea043&outline_color=2ea043" />
+  <a href="https://github.com/Ivriel">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ivriel&show_icons=true&theme=tokyonight&icon_color=2ea043&title_color=2ea043&outline_color=2ea043&count_private=true" alt="Ivriel's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ivriel">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=tokyonight&icon_color=2ea043&title_color=2ea043&outline_color=2ea043" alt="Ivriel's Top Languages" />
+  </a>
 </p>
 
 <p align="center">
