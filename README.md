@@ -1,127 +1,73 @@
-### <h1 align="center">💻 Ivriel Gunawan | Frontend Web Developer</h1>
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ivriel/Ivriel/main/Logo%20Shankara.png" alt="Shankara Logo" width="200">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2ea043&height=200&section=header&text=Ivriel%20Gunawan&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
-  🌱 Currently working for <strong>Shankara Paperstraw</strong> to maintenancing their website
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;Founder+of+Vocatech+Solution;Logic-Driven+Problem+Solver;Flutter+Mobile+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.shankarapaperstraw.com/" target="_blank"><strong>🌍 Visit Company Website</strong></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@1693d8b0-85ab-442b-9542-640bff610390">
-    <img src="https://wakatime.com/badge/user/1693d8b0-85ab-442b-9542-640bff610390.svg" alt="wakatime" />
-  </a>
-  <a href="https://codetime.dev">
-    <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32370%26project%3D%26in=0" alt="CodeTime Badge" />
-  </a>
-</p>
-
-
-
-
-
-
-
----
-
-## 👋 About Me
-
-- ⏳ Ich bin **17 Jahre alt** und lerne Deutsch seit einem Jahr. Noch auf dem Niveau A1.
-- 🎓 **Student** at Public Vocational High School 8 Malang (XII RPL A / 14)
-- 🏢 **Industrial Class**: Rakryan VET
-- 💻 **2+ years** of experience in coding & website development
-- 🎨 Focused on **coding and logical for website**, not design it!
-- 📱 Currently learning **Mobile Development with Flutter**
-- 👨‍💻 Intern Frontend Web Developer **With Angular** and Mobile Developer **With Flutter** at **3PM Solution**
-
----
-
-## 🔧 Tech Stack & Tools I Have Been Worked With
-
-<p align="center">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/AJAX-1572B6?style=flat-square&logo=javascript&logoColor=white" alt="AJAX"/>
-  <img src="https://img.shields.io/badge/EmailJS-FF4F00?style=flat-square&logo=emailjs&logoColor=white" alt="Email JS"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCB2F?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
-  <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=white" alt="Neon"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="Xampp"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node JS"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Flutter_Viz-02569B?style=flat-square&logo=flutter&logoColor=white" alt="FlutterViz"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/AOS-FFB800?style=flat-square&logo=aos&logoColor=white" alt="AOS"/>
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=font-awesome&logoColor=white" alt="Fontawesome"/>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=2ea043&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-brightgreen?style=flat-square" alt="Freelance Status" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 💡 Mengapa Memilih Saya?
+*Berfokus pada fungsionalitas dan logika yang kuat untuk membantu bisnis Anda berkembang secara digital.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivriel&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivriel&theme=dark" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=blue-green" alt="Top Languages"/>
+- 🚀 **Performance First**: Membangun website yang cepat, SEO-friendly, dan responsif.
+- 🧠 **Logic Over Design**: Fokus pada sistem yang kompleks dan integrasi API yang seamless.
+- 🏢 **Professional Solution**: Melalui **Vocatech Solution**, saya menyediakan solusi teknologi end-to-end untuk UMKM hingga korporasi.
+- 🛠 **Maintenance Expert**: Pengalaman mengelola platform bisnis seperti [Shankara Paperstraw](https://www.shankarapaperstraw.com/).
+
+---
+
+### 🛠 My Specialized Services
+*Apa yang bisa saya kerjakan untuk Anda atau bisnis Anda:*
+
+| Service | Description | Tech Used |
+| :--- | :--- | :--- |
+| **Custom Web Dev** | Landing page, Dashboard, atau Web App kustom. | React, Next.js, Laravel |
+| **Mobile App** | Pengembangan aplikasi Android/iOS dari satu codebase. | Flutter, Dart |
+| **System Maintenance** | Optimasi performa, update fitur, dan manajemen database. | Supabase, MySQL, Git |
+| **API Integration** | Menghubungkan berbagai layanan pihak ketiga ke sistem Anda. | Node.js, REST API |
+
+---
+
+### 🧰 Tech Stack Mastery
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,tailwind,flutter,php,laravel,nodejs,py,mysql,supabase,firebase,git,vercel,postman,figma" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Portfolio & Contact
+### 📊 GitHub Insights & Performance
+*(Statistik real-time aktivitas coding saya)*
 
 <p align="center">
-  <a href="https://www.ivriel.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.instagram.com/wynsc_u13" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/ivriel-gunawan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCxxxxxx" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ivriel&show_icons=true&theme=tokyonight&icon_color=2ea043&title_color=2ea043&outline_color=2ea043" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=tokyonight&icon_color=2ea043&title_color=2ea043&outline_color=2ea043" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivriel&theme=tokyonight&fire=2ea043&ring=2ea043&sideLabels=ffffff" />
 </p>
 
 ---
+
+### 🤝 Mari Berkolaborasi
+*Tertarik untuk bekerja sama atau ingin berkonsultasi tentang proyek Anda?*
+
+<p align="center">
+<a href="https://www.ivriel.my.id"><img src="https://img.shields.io/badge/Personal_Portfolio-2ea043?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://github.com/vocatechsolution"><img src="https://img.shields.io/badge/Vocatech_Solution-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ivriel-gunawan"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="right">
+  <i>"Turning complex logic into simple solutions."</i>
+</p>
