@@ -33,7 +33,7 @@ As a **Lead Frontend Developer** and entrepreneur, I bridge the gap between **ro
 
 | Service | Deliverables | Key Value |
 | :--- | :--- | :--- |
-| **Custom Web Development** | Dashboards, SaaS Platforms, & High-Converting Landing Pages. | Scalable & Responsive |
+| **Custom Web Development** | Dashboards, Company Profiles, & High-Converting Landing Pages. | Scalable & Responsive |
 | **Mobile App Development** | Native-performance iOS & Android apps via single codebase. | Fast Time-to-Market |
 | **Enterprise Maintenance** | Bug fixing, security updates, and performance optimization. | Reliability & Security |
 | **API & System Integration** | Seamless connection between your system and 3rd party services. | Automation & Efficiency |
