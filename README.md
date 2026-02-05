@@ -24,7 +24,7 @@ As a **Lead Frontend Developer** and entrepreneur, I bridge the gap between **ro
 - 🚀 **Lead Frontend Developer**: Driving the frontend architecture at Vocatech Solution.
 - 🏗️ **Performance-Driven**: Focused on speed, SEO, and clean, maintainable architecture.
 - 📱 **Mobile Specialist**: Architecting cross-platform apps with Flutter.
-- 🏢 **Industry Experience**: Intern at 3PM Solution & Maintenance Lead for [Shankara Paperstraw](https://www.shankarapaperstraw.com/).
+- 🏢 **Industry Experience**: Intern at 3PM Solution & Web Developer Lead for [Shankara Paperstraw](https://www.shankarapaperstraw.com/).
 
 ---
 
