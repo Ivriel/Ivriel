@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ivriel&label=Profile%20Views&color=2ea043&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Status-Open%20for%20Freelance-2ea043?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Language-Deutsch%20A1-brightgreen?style=flat-square" alt="German" />
+  <img src="https://img.shields.io/badge/Fullstack Web Developer-%20Open For Collaboration-brightgreen?style=flat-square" alt="German" />
 </p>
 
 <br>
