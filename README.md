@@ -19,7 +19,7 @@
 ### 💡 Executive Summary
 *Turning complex logic into scalable digital assets.*
 
-As a **Lead Frontend Developer** and entrepreneur, I bridge the gap between **robust backend logic** and **seamless frontend experiences**. I don't just build websites; I build solutions that drive business growth through **[Vocatech Solution](https://github.com/vocatechsolution)**.
+As a **Lead Frontend Developer** and entrepreneur, I bridge the gap between **robust backend logic** and **seamless frontend experiences**. I don't just build websites; I build solutions that drive business growth through **[Vocatech Solution](https://github.com/vocatechsolution)**. I'm also a part of the industry **[Shankara Paperstraw](https://github.com/shankarapaperstraw)** as their **Fullstack Web Developer**.
 
 - 🚀 **Lead Frontend Developer**: Driving the frontend architecture at Vocatech Solution.
 - 🏗️ **Performance-Driven**: Focused on speed, SEO, and clean, maintainable architecture.
