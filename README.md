@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&text=Ivriel%20Gunawan&height=180&fontSize=90&desc=Fullstack%20Web%20at%20Developer&descSize=25&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&text=Ivriel%20Gunawan&height=180&fontSize=90&desc=Fullstack%20Web%20Developer&descSize=25&descAlignY=75" />
 </p>
 
 <p align="center">
