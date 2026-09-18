@@ -55,8 +55,8 @@ As a **Lead Frontend Developer** and entrepreneur, I bridge the gap between **ro
 ### 📊 Engineering Performance
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lvriel&show_icons=true&theme=tokyonight&icon_color=2ea043&title_color=2ea043&outline_color=2ea043" alt="lvriel's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvriel&layout=compact&theme=tokyonight&icon_color=2ea043&title_color=2ea043&outline_color=2ea043" alt="lvriel's Top Languages" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ivriel&show_icons=true&theme=tokyonight&icon_color=2ea043&title_color=2ea043" alt="Stats" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ivriel&layout=compact&theme=tokyonight&icon_color=2ea043&title_color=2ea043" alt="Top Languages" />
 </p>
 
 <p align="center">
