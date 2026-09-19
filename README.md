@@ -1,4 +1,5 @@
 <p align="center">
+<img width="100%" height="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="3D Developer">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&text=Ivriel%20Gunawan&height=180&fontSize=90&desc=Fullstack%20Web%20Developer&descSize=25&descAlignY=75" />
 </p>
 
